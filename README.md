@@ -1,13 +1,14 @@
 
-# Test Project[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README-Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   
 ## Description
 
-This project tests the functionality of the node.js README generator.
+This project generates a professional README.md file to be used with your Github projects.
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -31,7 +32,7 @@ There are no contribution guidelines at this time.
 
 ## License 
     
-    Copyright <YEAR> <COPYRIGHT HOLDER>
+    Copyright <2023> <Thomas Adamson>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
