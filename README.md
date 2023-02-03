@@ -9,12 +9,10 @@ This project tests the functionality of the node.js README generator.
 
 ## Table of Contents (Optional)
 
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contributing](#contributing)
-    - [License](#license)
-    - [Tests](#tests)
-    - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
