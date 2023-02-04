@@ -17,29 +17,41 @@ const questions = [
     }, 
     {
         type: 'input',
-        name: 'tableOfContents',
-        message: 'Add table of contents?',
-    },
-    {
-        type: 'input',
         name: 'install',
-        message: 'Provide instructions for installation.',
+        message: 'Provide instructions for installation if required.',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Provide usage instructions.',
+        message: 'Provide any usage instructions.',
     },
     {
         type: 'input',
         name: 'credits',
-        message: 'List any collaborators (comma seperated)'
+        message: 'List the contribution guidelines required for this project.'
     },
     {
         type: 'input',
-        name: 'credits',
+        name: 'test',
+        message: 'List any test instructions for this project.'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        choices: ['MIT License', 'GNU Lesser General Public License v3.0', 'Mozilla Public License 2.0', 'GNU Affero General Public License v3.0', 'The Unlicense', 'Apache License 2.0', 'GNU General Public License v3.0', 'no license'],
         message: 'What license should this project use?',
-    }];
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'What is your Github username?'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your contact email?'
+    }
+];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
