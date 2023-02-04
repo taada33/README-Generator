@@ -17,7 +17,7 @@ This project generates a professional README.md file to be used with your Github
 
 ## Installation
 
-Simply install any dependencies using npm install command, the run the code using the command node index.
+Simply install any dependencies using "npm install" command, the run the code using the command "node index".
 
 ## Usage
 
