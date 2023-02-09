@@ -21,7 +21,7 @@ Simply install any dependencies using "npm install" command, the run the code us
 
 ## Usage
 
-Once the code is run, simply provide answers to the prompts generated, and a README.md file will be created for you in the output folder.
+Once the code is run, simply provide answers to the prompts generated, and a README.md file will be created for you in the output folder. Please check out this link for instructions on using the code: [https://youtu.be/QFiLdrTCPSY](https://youtu.be/QFiLdrTCPSY)
     
 ## Contributing
 
