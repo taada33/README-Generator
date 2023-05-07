@@ -1,11 +1,11 @@
 
-# Test Project
+# React-Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   
 ## Description
 
-This project has a description.
+A single page react application which showcases my project work done in the coding bootcamp.
 
 
 ## Table of Contents
@@ -19,11 +19,11 @@ This project has a description.
 
 ## Installation
 
-There are no installation instructions.
+If running the application locally, use ```npm i``` from the main directory then run ```npm run start``` to run the application.
 
 ## Usage
 
-Use well.
+Use the navigation section to view different pages on the application. The project deployments and githubs can be accessed by clicking the links on their respective cards.
     
 ## Contributing
 
@@ -45,5 +45,5 @@ There are no tests at this time.
 
 ## Questions
 
-Feel free to visit my Github, [taada33](https://github.com/taada33) or send me an email at taada33@gmail.com.
+Feel free to visit my Github, [taada33](https://github.com/taada33) or send me an email at taadamson33@gmail.com.
 
